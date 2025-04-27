@@ -1,5 +1,4 @@
-Welcome to Ingles a Espana. 
-Eager to learn english in an efficient and effective way? 
+Anything I do, not for the faint of heart.
 
 <!--
 **inglesaespana/inglesaespana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
